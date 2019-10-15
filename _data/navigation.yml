@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "Main"
-    url: https://aculpcano.github.io/
   - title: "About"
     url: /about/
   # - title: "Sample Posts"
